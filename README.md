@@ -1,5 +1,5 @@
 - Hi, I’m Marko Sobak (@msobak)
-- PhD student in Mathematics, specializing in Geometric Analysis.
+- Postdoc in Mathematics, specializing in Geometric Analysis.
 
 <!---
 msobak/msobak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
